@@ -1,0 +1,83 @@
+---
+title:  "Schedule"
+date:   2022-06-05 14:01:03
+redirect_from: /schedule
+---
+
+The Summer School officially runs from 8:30am Monday, July 25th through 5:00 pm Friday, July 29th. For students arriving on Sunday, July 24th, there will be an optional social/networking activity in the afternoon. Below provides the anticipated schedule, though the exact ordering is potentially subject to change. While some of the topics may sound unfamiliar and potentially intimidating for those working primarily in Engineering Design areas, keep in mind that this Summer School is designed to be a first introduction, particularly for those without prior experience in these topics. The pace and scope will be adjusted accordingly.
+
+## Sunday, July 24th -- Check-In
+
+While not an "official" day of the Summer School, we will provide an optional afternoon and evening social and networking activity for participants to engage in and meet others, should they arrive earlier on Sunday.
+
+## Monday, July 25th -- Optimal Transport
+This day will focus on introducing the concept of Optimal Transport, its use in generative models of design, and methods and code libraries for efficiently computing it.
+
+| Time  | Event  |
+|---|---|
+| 8:30 | Welcome + Coffee + Materials distribution|
+| 9:30  | Plenary Talk  |
+| 10:30 | Tutorial Session: Optimal Transport  |
+| 12:30 | Lunch |
+| 2:00 | Application Session: Optimal Transport |
+| 3:30 | Networking Break |
+| 4:00 | Introduction to Challenge Problems and Technical Setup|
+| 5:00 | Evening Poster Session and Reception |
+
+## Tuesday, July 26th -- Introduction to Information Geometry
+This day will focus on introducing Information Geometry, with a specific focus on techniques and code libraries for learning using Differential Geometry (e.g., optimization or learning on Riemannian Manifolds, natural gradients etc.) that correspond to applications in generative and statistical models.
+
+| Time  | Event  |
+|---|---|
+| 8:30 | Coffee |
+| 9:00  | Plenary Talk  |
+| 10:00 | Tutorial Session: Information Geometry  |
+| 12:00 | Lunch |
+| 1:30 | Application Session: Information Geometry |
+| 3:00 | Networking Break |
+| 3:30 | Challenge Problems: Applying OT and Info. Geometry |
+| 5:00 | Group Social Outing |
+
+## Wednesday, July 27th -- Optimization and Generative Models
+This day will dive deeper into optimization and learning in generative models (GANs, VAEs, Normalizing Flows) building upon the first two days. It will also cover applications that deal with non-continuous representations such as graphs, trees, permutations, and other common representations in Engineering Design, and how to modify the prior material to handle these cases.
+
+| Time  | Event  |
+|---|---|
+| 8:30 | Coffee |
+| 9:00  | Plenary Talk  |
+| 10:00 | Tutorial Session: Generative Models  |
+| 12:00 | Lunch |
+| 1:30 | Application Session: Generative Models |
+| 3:00 | Networking Break |
+| 3:30 | Challenge Problems: Integration, Training, and Optimization |
+| 5:00 | Group Social Outing |
+
+## Thursday, July 28th -- Working on Challenge Problems or Technical Office Hours
+This day will be focused primarily on individual and group time to continue work on the provided challenge problems, and for Technical Office Hours to help individual students with topics from the prior days or when attempting the challenge problems. This day also includes additional networking and forward looking invited Plenary sessions that discuss various Engineering Applications for which the week's mathematical, statistical, or computational topics could be applied in students' future careers beyond the Summer School.
+
+| Time  | Event  |
+|---|---|
+| 8:30 | Coffee |
+| 9:00  | Individual or Group work on Challenge problems with Technical Office Hours  |
+| 12:00 | Plenary Lectures on Eng. Design Applications during Lunch  |
+| 1:30 | Networking Break and Panel Discussion with speakers |
+| 2:00 | Individual or Group work on Challenge problems and Optional Social Outing |
+| 5:00 | Individual or smaller group social outings as desired |
+
+## Friday, July 29th -- Synthesis and Dissemination
+This day will be focused on contributing to collaborative writing projects within the group that summarize our progress on the challenge problem results and preparing brief presentations to the group and invited external guests from academia, government, and industry on promising approaches and lessons learned along with a closing networking event.
+
+| Time  | Event  |
+|---|---|
+| 8:30 | Coffee |
+| 9:00  | Group Writing and Presentation Preparation |
+| 12:00 | Lunch  |
+| 1:30 | Final Presentations |
+| 3:30 | Summary of Lessons Learned and Group Discussion |
+| 4:00 | Closing Remarks and Afternoon Reception |
+| 5:00 | Adjourn |
+
+
+## Beyond the Summer School
+
+At the conclusion of the Summer School, participants can Opt-In to an alumni listserv to coordinate future explorations and follow-on papers, be informed of subsequent topics and openings for future summers, and be invited to a mini-reunion networking event at the [2022 ASME International Design Engineering Technical Conference](https://event.asme.org/IDETC-CIE) in mid-August.

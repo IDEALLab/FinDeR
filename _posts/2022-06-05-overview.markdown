@@ -1,0 +1,26 @@
+---
+title:  "Overview"
+date:   2022-06-05 14:01:01
+redirect_from: /overview
+---
+
+The Frontiers in Design Representation (FinDeR) Summer School is a series of yearly summer programs for Graduate Students in Engineering focused on exploring emerging mathematical, statistical, or computing foundations for how we represent Engineering Design. Hosted by the Department of Mechanical Engineering at the University of Maryland, College Park, and funded by the National Science Foundation (via CMMI-1936730 and CMMI-1943699), these Summer Schools are designed to introduce graduate students working in the Design research area to new and emerging mathematical, statistical, or computational techniques beyond what is typically covered in graduate-level coursework, and to help bridge conceptual and linguistic barriers and academic networks between different fields. This means that the target students are those enrolled in a technically-oriented graduate program. While this typically means an Engineering department, students from related technical areas outside of Engineering such as Architecture, Computer Science, Mathematics, Statistics, Physics, or other similar or interdisciplinary areas are more than welcome if their interests align with Engineering Design or Design more broadly.
+
+For the 2022 summer school, the topic is **Data-Driven Design -- Optimal Transport, Information Geometry, and Generative Models**. It will introduce engineering design graduate students to advances from the fields of Machine Learning, Mathematical Statistics, and Information Geometry that form the foundation of modern approaches to methods like Generative Models (such as GANS, VAEs, Normalizing Flows) and Generative Statistical models for non-continuous design representations (such as graphs, simplexes, trees, and other non-continuous representations) that occur frequently in the design of engineered systems. Students will practice these skills on Design Challenge Problems of various complexity that were provided, supported, or reviewed by industrial partners and federal agencies including the NSF, NIH, DoE, and DoD.
+
+For any further questions or inquiries about the Summer School not mentioned elsewhere on this website, you can reach out to Dr. Mark Fuge at fuge@umd.edu.
+
+# Outcomes
+
+Students who attend the Summer School will:
+1. Learn new techniques from the broader intersection of Machine Learning and Information geometry, including concepts like Optimal Transport (e.g., the Sinkhorn Divergence) or how to perform Machine Learning and Optimization on non-traditional representations such as graphs, permutation matrices, SPD cones, and related concepts from differential geometry.
+2. Gain hands-on practice with these skills via relevant real-world Engineering Design challenge problems of various complexity that were provided, supported, or reviewed by industrial partners and federal agencies including the NSF, NIH, DoE, and DoD. They will leave the summer school with a concrete demonstration, and set of algorithms and datasets that they can compare to the State of the Art and build upon in their later research careers.
+3. Make new life-long friends and build networks with other researchers and mentors in a supportive and inclusive environment, while exploring the wider Washington, DC metro region in various social outings.
+4. Practice their communication skills via an end-of-week final presentation to academic, industrial, and government participants, along with optional opportunities to present their graduate work in a poster session and contribute to archival publishable outcomes from the summer school efforts.
+
+# To Apply
+
+See [the dedicated application page](../apply) which also provides information on possible travel stipends for students. We particularly encourage students from underrepresented groups to apply.
+
+# Collocation with nearby ICML 2022
+To help provide more educational access and opportunities to students from the wider design community, the Summer School occurs right after the 2022 International Conference on Machine Learning (ICML) and [the ICML Workshop on Computational Design](https://mlcompdesign.github.io/) which is July 22nd in Baltimore, Maryland, nearby to College Park. Applicants wishing to attend both ICML (either the full conference or just the Computational Design workshop), as well as the Summer School, might consider planning their travel so as to attend both events. Note that the Summer School stipends will only cover lodging and some meals during the Summer School itself (not ICML) and that applicants will need to attend the entire Summer School to be eligible for the travel reimbursement. For those applicants attending both events, we will provide information closer to the time on how to use the local MARC train to go between Baltimore (ICML) and College Park (the Summer School).

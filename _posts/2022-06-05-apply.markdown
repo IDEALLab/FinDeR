@@ -1,0 +1,28 @@
+---
+title:  "Apply"
+date:   2022-06-05 14:01:02
+redirect_from: /apply
+---
+
+To apply for the 2022 UMD Frontiers in Design Representation Summer School, please complete <a href="https://umdsurvey.umd.edu/jfe/form/SV_6kWx0KNugAjjQSG" target="_blank">this application form</a>.
+
+# Key Dates: 2022
+* Early Application deadline for Travel Stipend: June 17th, 2022
+* Notification of acceptance for early applications and travel support: June 20th, 2022
+* Application deadline for self-supported registrants: June 24th, 2022
+* Notification of acceptance for self-support registrants: June 27th, 2022
+* Summer School: Monday July 25 to Friday July 29
+
+# Application Frequently Asked Questions
+
+* **What background or pre-requisites do I need to participate?** This summer school is designed for graduate level engineering students with an interest in computation and mathematics or statistics. We do not assume that participants will come in with extensive knowledge of the year's target topics, but should be willing to learn these over the course of the summer school. The specific techniques covered during the summer school are specific to that year, though to complete the challenge problems students should typically feel comfortable working with existing code libraries and manipulating datasets or be willing to learn this during the beginning of the summer school. For the 2022 year, the topic merges ideas from Machine Learning and Information Geometry, meaning that students will do some amount of programming and use the existing challenge problem datasets. Familiarity with at least one interpreted programming language is preferred (the 2022 challenge problem libraries and some tutorials will use Python, though participants may use other languages if they prefer). In general, we encourage people to apply even if you are on the fence about your technical abilities since we will structure activities to meet people where they are and scaffold them accordingly.
+
+* **Will funding be available to support travel?** Yes, through the National Science Foundation we can support a number of students to attend the Summer School. This includes shared lodging near UMD, most on-campus meals, and up to $400 in transportation costs (Ai, Rail, Bus, etc.). Participants will have to cover any off-site meals or activities that are not part of the official Summer School program.
+
+* **For the Letter of Recommendation, does this need to come from my advisor? What if I don't yet have a formal advisor?** It does not need to come from a formal research advisor if you do not have one already. The goal of the (short) letter is just to confirm suitability of your research area with the goals of the Summer School, and, more importantly, to confirm that your advisor is aware and supportive of your participation in the program.
+
+* **I was accepted into the summer school -- when should plan to travel in or out?** See the [Logistics](../logistics) and [Schedule](../schedule) pages for specific timing details.
+
+* **I was not accepted into the summer school or am unable to travel during the target dates -- will there be an option to participate virtually?** Currently our efforts are going into maximizing the value of the in-person Summer School experience, and we request that you only submit an application if you are able and willing to participate in-person. Depending on demand and availability of technical resources and permission of attendees we may offer recordings of the session or other virtual participation options closer to the date or via materials after the Summer School. If so, further information will be posted to this website with those details. 
+
+* **I am located at an overseas institution -- is this limited to only US participants?** Students from any country or institution are welcome to apply and join the Summer School, and we would encourage international participation. For those applying for a travel stipend, be aware that to maximize the amount of possible stipends available we will only offer up to $400 USD in reimbursement, and that due to the [Fly America Act](https://www.gsa.gov/policy-regulations/policy/travel-management-policy/fly-america-act), the air carrier should be a US-based carrier.
