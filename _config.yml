@@ -1,1 +1,41 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Frontiers in Design Representation Summer School
+description: 'Frontiers in Design Representation Summer School 2022 at the University of Maryland, College Park, July 25-29th'
+url: 'http://ideal.umd.edu/FinDeR'
+baseurl: '/FinDeR'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+# disable_landing_page: true
+
+author:
+  name: 'Mark Fuge'
+  email: fuge@umd.edu
+  github_username:  IDEALLab
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
