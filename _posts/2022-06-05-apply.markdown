@@ -13,7 +13,12 @@ To apply for the 2022 UMD Frontiers in Design Representation Summer School, plea
 * Notification of acceptance for self-support applicants: June 27th, 2022
 * Summer School: Monday July 25 to Friday July 29
 
+**Travel Stipends**
+Funding from the National Science Foundation enables us to provide graduate student travel support that covers lodging, most meals, and up to $400 in transportation to/from College Park for a select number of applicants who attend the full week. Students will need to submit an application for these as part of the summer school application process at the link above.
+
 # Application Frequently Asked Questions
+
+* **Is there a separate registration fee for the summer school?** Not for the 2022 Summer School. For this year we have sufficient funding from the National Science Foundation to cover the main anticipated Participant Support Costs for this summer school, such that we do not need to charge a separate registration fee. For future years (2023 and onward) there will likely be a registration fee to cover portions of the participant costs not covered by the grant, or to expand access to more students.
 
 * **What background or pre-requisites do I need to participate?** This summer school is designed for graduate level engineering students with an interest in computation and mathematics or statistics. We do not assume that participants will come in with extensive knowledge of the year's target topics, but should be willing to learn these over the course of the summer school. The specific techniques covered during the summer school are specific to that year, though to complete the challenge problems students should typically feel comfortable working with existing code libraries and manipulating datasets or be willing to learn this during the beginning of the summer school. For the 2022 year, the topic merges ideas from Machine Learning and Information Geometry, meaning that students will do some amount of programming and use the existing challenge problem datasets. Familiarity with at least one interpreted programming language is preferred (the 2022 challenge problem libraries and some tutorials will use Python, though participants may use other languages if they prefer). In general, we encourage people to apply even if you are on the fence about your technical abilities since we will structure activities to meet people where they are and scaffold them accordingly.
 
