@@ -7,8 +7,8 @@ redirect_from: /apply
 To apply for the 2022 UMD Frontiers in Design Representation Summer School, please complete <a href="https://umdsurvey.umd.edu/jfe/form/SV_6kWx0KNugAjjQSG" target="_blank">this application form</a>.
 
 # Key Dates: 2022
-* Early Application deadline for Travel Stipend: June 17th, 2022
-* Notification of acceptance for early applications and travel support: June 20th, 2022
+* ~~Early Application deadline for Travel Stipend: June 17th, 2022~~
+* ~~Notification of acceptance for early applications and travel support: June 20th, 2022~~ &rarr; Notifications have been sent to those who applied for the travel support.
 * Application deadline for self-supported applicants: June 24th, 2022
 * Notification of acceptance for self-support applicants: June 27th, 2022
 * Summer School: Monday July 25 to Friday July 29
