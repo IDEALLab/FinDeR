@@ -16,11 +16,11 @@ This day will focus on introducing the concept of Optimal Transport, its use in 
 | Time  | Event  |
 |---|---|
 | 8:30 | Welcome + Coffee/Breakfast + Materials distribution|
-| 9:30  | Plenary Talk: [Dr. Jean Feydy](https://www.jeanfeydy.com/)  |
-| 10:30 | Tutorial Session: Optimal Transport w/ [Dr. Jean Feydy](https://www.jeanfeydy.com/) |
+| 9:30  | Plenary Talk: [Dr. Jean Feydy](https://www.jeanfeydy.com/) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45337a9f-7af4-407d-85fc-aedd015aa20e) |
+| 10:30 | Tutorial Session: Optimal Transport w/ [Dr. Jean Feydy](https://www.jeanfeydy.com/) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f709d34a-357c-4341-b3f3-aedd015acd06)|
 | 12:30 | Lunch |
-| 2:00 | Eng. Design Plenary: [Dr. Wei Chen](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html) |
-| 3:00 | Eng. Design Plenary: [Dr. James Allison](https://ise.illinois.edu/directory/profile/jtalliso) |
+| 2:00 | Eng. Design Plenary: [Dr. Wei Chen](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dfb48df2-3260-4b2c-bc55-aedd015ae330) |
+| 3:00 | Eng. Design Plenary: [Dr. James Allison](https://ise.illinois.edu/directory/profile/jtalliso) - [Audio Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4d0c4dd-09f4-46a6-9333-aee001223372) |
 | 4:00 | Panel Discussion |
 | 4:30 | Introduction to Challenge Problems and Technical Setup: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) |
 | 5:00 | Evening Poster Session and Ice Cream Social |
@@ -31,11 +31,11 @@ This day will focus on introducing Information Geometry, with a specific focus o
 | Time  | Event  |
 |---|---|
 | 8:30  | Coffee/Breakfast |
-| 9:00  | Plenary Talk: [Dr. Alice Le Brigant](https://sites.google.com/view/alice-le-brigant/)  |
-| 10:00 | Tutorial Session: Information Geometry w/ [Jules Deschamps](https://github.com/Jules-Deschamps) |
+| 9:00  | Plenary Talk: [Dr. Alice Le Brigant](https://sites.google.com/view/alice-le-brigant/) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9715da3d-661a-46d4-9fd0-aee001207449) |
+| 10:00 | Tutorial Session: Information Geometry w/ [Jules Deschamps](https://github.com/Jules-Deschamps) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=453ff317-2288-48c2-9afe-aede0165f291) |
 | 12:00 | Lunch |
 | 1:30  | Application Session: OT & Info. Geom. for the Challenge Problems w/ [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) and [Dr. Jun Wang](https://ideal.umd.edu/team/wang-jun)|
-| 4:00  | Eng. Design Plenary: [Dr. Katrina Groth](https://enme.umd.edu/clark/faculty/807/Katrina-Groth) |
+| 4:00  | Eng. Design Plenary: [Dr. Katrina Groth](https://enme.umd.edu/clark/faculty/807/Katrina-Groth) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=295bad1d-903c-40e0-a8b8-aede01662c05) |
 | 5:00  | Local Social Outings |
 
 ## Wednesday, July 27th -- Optimization and Generative Models
@@ -44,10 +44,10 @@ This day will dive deeper into optimization and learning in generative models (G
 | Time  | Event  |
 |---|---|
 | 8:30  | Coffee/Breakfast |
-| 9:00  | Plenary Talk: [Dr. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/)  |
-| 10:00 | Tutorial Session: Continuous Generative Models - [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) |
+| 9:00  | Plenary Talk: [Dr. Soheil Feizi](https://www.cs.umd.edu/~sfeizi/) - [Video link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87a12043-f21b-4deb-9be8-aedf00f21bb5)  |
+| 10:00 | Tutorial Session: Continuous Generative Models - [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3d49233f-ffaa-4e25-8ac6-aedf0164e683) |
 | 12:00 | Lunch |
-| 1:30  | Tutorial Session: Discrete Generative Models - [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) |
+| 1:30  | Tutorial Session: Discrete Generative Models - [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ce80e25-f0d6-45dd-acc4-aedf0164c9cb)|
 | 3:00  | Networking Break |
 | 3:30  | Integrating Techniques into the Challenge Problems |
 | 5:00  | Local Social Outings |
