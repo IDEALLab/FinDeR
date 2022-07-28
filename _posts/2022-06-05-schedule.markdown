@@ -21,7 +21,7 @@ This day will focus on introducing the concept of Optimal Transport, its use in 
 | 12:30 | Lunch |
 | 2:00 | Eng. Design Plenary: [Dr. Wei Chen](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dfb48df2-3260-4b2c-bc55-aedd015ae330) |
 | 3:00 | Eng. Design Plenary: [Dr. James Allison](https://ise.illinois.edu/directory/profile/jtalliso) - [Audio Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4d0c4dd-09f4-46a6-9333-aee001223372) |
-| 4:00 | Panel Discussion |
+| 4:00 | Panel Discussion - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9715da3d-661a-46d4-9fd0-aee001207449)|
 | 4:30 | Introduction to Challenge Problems and Technical Setup: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) |
 | 5:00 | Evening Poster Session and Ice Cream Social |
 
@@ -31,7 +31,7 @@ This day will focus on introducing Information Geometry, with a specific focus o
 | Time  | Event  |
 |---|---|
 | 8:30  | Coffee/Breakfast |
-| 9:00  | Plenary Talk: [Dr. Alice Le Brigant](https://sites.google.com/view/alice-le-brigant/) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9715da3d-661a-46d4-9fd0-aee001207449) |
+| 9:00  | Plenary Talk: [Dr. Alice Le Brigant](https://sites.google.com/view/alice-le-brigant/) |
 | 10:00 | Tutorial Session: Information Geometry w/ [Jules Deschamps](https://github.com/Jules-Deschamps) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=453ff317-2288-48c2-9afe-aede0165f291) |
 | 12:00 | Lunch |
 | 1:30  | Application Session: OT & Info. Geom. for the Challenge Problems w/ [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) and [Dr. Jun Wang](https://ideal.umd.edu/team/wang-jun)|
