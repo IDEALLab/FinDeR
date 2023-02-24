@@ -1,7 +1,7 @@
 ---
 title:  "Poster Session"
 date:   2022-07-16 12:01:03
-redirect_from: /poster-session
+redirect_from: 2022/poster-session
 ---
 
 At the end of Monday during the Summer School, there will be a reception and graduate student poster session where you will have the opportunity to (if you want) talk about some of your past, current, or planned research or projects with other students and speakers at the summer school and get to know the other attendees better. The rest of this page describes how the poster session will work if you wish to share a bit about your research.

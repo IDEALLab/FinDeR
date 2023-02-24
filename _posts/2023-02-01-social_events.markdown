@@ -1,20 +1,20 @@
 ---
 title:  "Evening Social Options"
-date:   2022-07-16 14:01:03
-redirect_from: 2022/social
+date:   2023-02-01 14:01:03
+redirect_from: /social_events
 ---
 
 This page lists some details on possible social options you may wish to explore in the evenings. While these are all optional and not part of the official summer school program, they are designed to help you explore the area and build connection with other attendees by giving you some ideas to start with.
 
-## Sunday, July 24th -- Board Games at The Board and Brew
+## Sunday, June 4th -- Board Games at The Board and Brew
 
 On Sunday as folks are traveling and checking in feel free to get settled and explore the area on your own. However, if you would like to meet other students, we will be hanging out at [The Board and Brew](https://www.theboardandbrew.com/) which is a Board Game Cafe near The Cambria Hotel with over 750 Board Game titles, along with food and drinks. We will plan to be there from around 5-8 pm. If interested in learning some new board games or meeting new people, come on by, otherwise we'll see you Monday AM.
 
-## Monday, July 25th -- Poster Session and Networking Reception
+## Monday, June 5th -- Poster Session and Networking Reception
 
-Monday early evening we will have a Poster Session and Networking Reception where you can learn more about other attendees. The instructions for the Poster Session are located on [its designated page](./poster_session).
+Monday early evening we will have a Poster Session and Networking Reception where you can learn more about other attendees. The instructions for the Poster Session are located on [its designated page](../poster_session).
 
-## Tuesday and Wednesday, July 26-27 -- Exploring the College Park Region
+## Tuesday and Wednesday, June 6-7 -- Exploring the College Park Region
 
 On Tuesday and Wednesday afternoons we will begin tackling some of the challenge problems for the week, and we expect that some folks may wish to use the evenings to reflect on or revisit the material, or hack away on the challenge problems. However, there are also some interesting things to do in and around the area, so below we list some starting options of activities folks may wish to do if you want to explore more of the surrounding College Park or DC area, depending on your interests. These are optional activities that you can do on your own or in small groups.
 
@@ -30,11 +30,11 @@ On Tuesday and Wednesday afternoons we will begin tackling some of the challenge
 * For those who were not available on Sunday, [the Board and Brew](https://www.theboardandbrew.com/) is a great place near the hotel hang out and learn/play board games if you just want a relaxed evening nearby.
 
 
-## Thursday, July 28th -- Afternoon exploration of Washington DC
+## Thursday, June 8th -- Afternoon exploration of Washington DC
 
-On Thursday morning we will largely be working on the Challenge Problems, applying the techniques learned on Monday-Wednesday. In the afternoon, you can either continue to work on the Challenge Problems, or, we have set aside the afternoon for you and others to explore Washington DC. We will have lunch boxes and water bottles to-go Thursday AM at the main Summer School room in case you wish to take those with you on your adventures. We recommend taking the 104 Shuttle to the Metro and then heading downtown on the Green line to either L'Enfant Plaza or the Archives stop, which will put you close by to the National Mall to see things like the major monuments, or visit any one or more of the free [Smithsonian Museums](https://www.si.edu/museums).
+On Thursday morning we will largely be working on the Challenge Problems, applying the techniques learned on Monday-Wednesday. In the afternoon, you can either continue to work on the Challenge Problems, or, we have set aside the afternoon for you and others to explore Washington DC. We recommend taking the 104 Shuttle to the Metro and then heading downtown on the Green line to either L'Enfant Plaza or the Archives stop, which will put you close by to the National Mall to see things like the major monuments, or visit any one or more of the free [Smithsonian Museums](https://www.si.edu/museums).
 
-## Friday, July 29th -- Adjorn
+## Friday, June 9th -- Adjorn
 
 Friday we will have our final presentations/reception on campus in the afternoon and the official program ends at 5 pm. I encourage those of you who are still around to coordinate separately for the evening and to continue exploring nearby or celebrating your efforts from the week.
 

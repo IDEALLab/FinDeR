@@ -1,0 +1,79 @@
+---
+title:  "2023 Schedule"
+date:   2023-02-01 14:01:03
+redirect_from: /schedule
+---
+
+The 2023 Summer School officially runs from 8:30am Monday, June 5th through 5:00 pm Friday, June 9th. For students arriving on Sunday, June 4th, there will be an optional social/networking activity in the afternoon. Below provides the anticipated schedule, though the exact ordering is potentially subject to change as we get closer to the summer school dates. While some of the topics may sound unfamiliar and potentially intimidating for those working primarily in Engineering Design areas, keep in mind that this Summer School is designed to be a first introduction, particularly for those without prior experience in these topics. The pace and scope will be adjusted accordingly.
+
+## Sunday, June 4th -- Check-In
+
+While not an "official" day of the Summer School, we will have an optional afternoon social and networking activity should you arrive earlier on Sunday. Specifically, you can see the [Social Events](../social_events) page for more information about times and where to go.
+
+## Monday, June 5th -- Topic TBA
+The specific topic of this day will be announced closer to the summer school date, but will have the general format of starting with an overview of a key mathematical field in the keynote, followed a practical tutorial session in the morning to apply one technique. After lunch, we will move toward applying that technique to Engineering Design problems, and finish with a Design Plenary covering challenges in design representation. This evening we will have the graduate poster session and ice cream Social hosted by Maryland Diary.
+
+| Time  | Event  |
+|---|---|
+| 8:30 | Welcome + Coffee/Breakfast + Materials distribution|
+| 9:30  | Keynote Talk: [To Be Announced]() - [Video Recording Link]() |
+| 10:30 | Tutorial Session: [To Be Announced]() - [Video Recording Link]() |
+| 12:30 | Lunch |
+| 2:00 | Introduction to the week's Challenge Problems and Technical Setup: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) |
+| 3:00 | Application Session: [To Be Announced]() - [Video Recording Link]() |
+| 4:00 | Design Plenary: [To Be Announced]() - [Video Recording Link]() |
+| 5:00 | Evening Poster Session and Ice Cream Social |
+
+## Tuesday, June 6th -- Topic TBA
+The specific topic of this day will be announced closer to the summer school date, but will have the general format of starting with an overview of a key mathematical field in the keynote, followed a practical tutorial session in the morning to apply one technique. After lunch, we will move toward applying that technique to Engineering Design problems, and finish with a Design Plenary covering challenges in design representation. The evening will have time for local social outings in the area.
+
+| Time  | Event  |
+|---|---|
+| 8:30  | Coffee/Breakfast |
+| 9:00  | Keynote Talk: [To Be Announced]() |
+| 10:00 | Tutorial Session: [To Be Announced]() - [Video Recording Link]() |
+| 12:00 | Lunch |
+| 1:30  | Application Session: [To Be Announced]() - [Video Recording Link]() |
+| 4:00  | Design Plenary: [To Be Announced]() - [Video Recording Link]() |
+| 5:00  | Local Social Outings |
+
+## Wednesday, June 7th -- Topic TBA
+The specific topic of this day will be announced closer to the summer school date, but will have the general format of starting with an overview of a key mathematical field in the keynote, followed a practical tutorial session in the morning to apply one technique. After lunch, we will move toward applying that technique to Engineering Design problems, and finish with a Design Plenary covering challenges in design representation. The evening will have time for local social outings in the area.
+
+| Time  | Event  |
+|---|---|
+| 8:30  | Coffee/Breakfast |
+| 9:00  | Keynote Talk: [To Be Announced]() |
+| 10:00 | Tutorial Session: [To Be Announced]() - [Video Recording Link]() |
+| 12:00 | Lunch |
+| 1:30  | Application Session: [To Be Announced]() - [Video Recording Link]() |
+| 4:00  | Design Plenary: [To Be Announced]() - [Video Recording Link]() |
+| 5:00  | Local Social Outings |
+
+## Thursday, June 8th -- Working on Challenge Problems & Technical Office Hours
+This day will be focused primarily on individual and group time to continue work on the provided challenge problems, and for Technical Office Hours to help individual students with topics from the prior days or when attempting the challenge problems. There is also time set aside in the afternoon for longer outings in the surrounding DC area.
+
+| Time  | Event  |
+|---|---|
+| 8:30 | Coffee/Breakfast |
+| 9:00  | Individual or Group work on Challenge problems with Technical Office Hours  |
+| 12:00 | Individual or Group work on Challenge problems or Social Outings to DC |
+| 5:00 | Individual or smaller group social outings as desired |
+
+## Friday, June 9th -- Synthesis and Dissemination
+This day will be focused on contributing to collaborative presentation and writing projects within the group that summarize our progress on the challenge problem results and preparing brief presentations to the group and invited external guests on promising approaches and lessons learned along with a closing networking event.
+
+| Time  | Event  |
+|---|---|
+| 8:30  | Coffee/Breakfast |
+| 9:00  | Group Work, Writing, and Presentation Preparation |
+| 12:00 | Lunch  |
+| 1:30  | Final Presentations |
+| 3:30  | Summary of Lessons Learned and Group Discussion |
+| 4:00  | Closing Remarks and Afternoon Reception |
+| 5:00  | Adjourn |
+
+
+## Beyond the Summer School
+
+At the conclusion of the Summer School, participants can Opt-In to an alumni listserv to coordinate future explorations and follow-on papers, be informed of subsequent topics and openings for future summers, and be invited to a mini-reunion networking event at the [2023 ASME International Design Engineering Technical Conference](https://event.asme.org/IDETC-CIE) in mid-August in Boston.

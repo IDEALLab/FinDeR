@@ -1,0 +1,33 @@
+---
+title:  "Apply"
+date:   2023-02-01 14:01:02
+redirect_from: /apply
+---
+
+To apply for the 2023 UMD Frontiers in Design Representation Summer School, please complete <a href="https://umdsurvey.umd.edu/jfe/form/SV_esMekrfl50a0j6m" target="_blank">this application form</a>.
+
+# Key Dates: 2023
+* Early Application deadline for Travel Stipend: March 29th, 2023
+* Notification of acceptance for early applications and travel support: April 3rd, 2023
+* Application deadline for self-supported applicants: April 28th, 2023
+* Notification of acceptance for self-support applicants: May 5th, 2023
+* Summer School: Monday June 5 to Friday June 9, 2023 (optional pre-summer school social/networking event on Sunday afternoon, June 4th)
+
+**Travel Stipends**
+Funding from the National Science Foundation enables us to provide graduate student travel support that covers lodging, most meals, and up to $400 in transportation to/from College Park for a select number of applicants who attend the full week. Students will need to submit an application for these as part of the summer school application process at the link above.
+
+# Application Frequently Asked Questions
+
+* **Is there a separate registration fee for the summer school?** Not for the 2023 Summer School. For this year we have sufficient funding from the National Science Foundation and the University of Maryland to cover many anticipated costs for this summer school, such that we do not need to charge a separate registration fee. For future years (2024 and onward) there will likely be a registration fee to cover portions of the participant costs not covered by the grant, or to expand access to more students.
+
+* **What background or pre-requisites do I need to participate?** This summer school is designed for graduate level engineering students with an interest in computation and mathematics or statistics. We do not assume that participants will come in with extensive knowledge of the year's target topics, but should be willing to learn these over the course of the summer school. The specific techniques covered during the summer school are specific to that year, though to complete the challenge problems students should typically feel comfortable working with existing code libraries and manipulating datasets or be willing to learn this during the beginning of the summer school. For the 2023 year, the topic merges ideas from Formal Methods and Program Analysis with Machine Learning, meaning that students will do some amount of programming and use the existing challenge problems or code libraries. Familiarity with at least one interpreted programming language (such as Python) is preferred, though given the topic/material participants should be open to learning the basics of other programming languages as needed to explore some of the topics. In general, we encourage people to apply even if you are on the fence about your technical abilities since we will structure activities to meet people where they are and scaffold them accordingly.
+
+* **Will funding be available to support travel?** Yes, through the National Science Foundation we can support a small number of students to attend the Summer School. This funding includes shared lodging near UMD (there will be a roommate matching form we send you in advance), many meals, and up to $400 in transportation costs (Air, Rail, Bus, etc.). Participants will have to cover any off-site meals or activities that are not part of the official Summer School program, but our travel support can cover the key expenses such as lodging and some transportation. If your current graduate research is externally funded, consider discussing with your advisor whether the [Poster Session](../poster_session), where you can disseminate your current work, might be eligible for travel funding or support via your current grant; this might allow you to supplement or offset additional costs that the summer school cannot cover.
+
+* **For the Letter of Recommendation, does this need to come from my advisor? What if I do not yet have a formal advisor?** It does not need to come from a formal research advisor if you do not have one already. The goal of the (short) letter is just to confirm suitability of your research area with the goals of the Summer School, and, more importantly, to confirm that your advisor is aware and supportive of your participation in the program, since you will be gone for a week and they should not be asking or expecting you to participate in remote project meetings or other research deliverables during the summer school.
+
+* **I was accepted into the summer school -- when should plan to travel in or out?** See the [Logistics](../logistics) and [Schedule](../schedule) pages for specific timing details.
+
+* **I was not accepted into the summer school or am unable to travel during the target dates -- will there be an option to participate virtually?** Currently our efforts are going into maximizing the value of the in-person Summer School experience, and we request that you only submit an application if you are able and willing to participate in-person. We expect that we will be able to make a portion of the materials available digitally afterward, however, synchronous virtual participation is not likely.
+
+* **I am located at an overseas institution -- is this limited to only US participants?** Students from any country or institution are welcome to apply and join the Summer School, and we would encourage international participation. For those applying for a travel stipend, be aware that to maximize the amount of possible stipends available we will only offer up to $400 USD in reimbursement, and that due to the [Fly America Act](https://www.gsa.gov/policy-regulations/policy/travel-management-policy/fly-america-act), the air carrier should be a US-based carrier.

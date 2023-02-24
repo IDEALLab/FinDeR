@@ -1,7 +1,7 @@
 ---
 title:  "Apply"
 date:   2022-06-05 14:01:02
-redirect_from: /apply
+redirect_from: 2022/apply
 ---
 
 To apply for the 2022 UMD Frontiers in Design Representation Summer School, please complete <a href="https://umdsurvey.umd.edu/jfe/form/SV_6kWx0KNugAjjQSG" target="_blank">this application form</a>.

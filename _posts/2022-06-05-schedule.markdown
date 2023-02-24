@@ -1,10 +1,10 @@
 ---
-title:  "Schedule"
+title:  "2022 Schedule"
 date:   2022-06-05 14:01:03
-redirect_from: /schedule
+redirect_from: 2022/schedule
 ---
 
-The Summer School officially runs from 8:30am Monday, July 25th through 5:00 pm Friday, July 29th. For students arriving on Sunday, July 24th, there will be an optional social/networking activity in the afternoon. Below provides the anticipated schedule, though the exact ordering is potentially subject to change. While some of the topics may sound unfamiliar and potentially intimidating for those working primarily in Engineering Design areas, keep in mind that this Summer School is designed to be a first introduction, particularly for those without prior experience in these topics. The pace and scope will be adjusted accordingly.
+The 2022 Summer School officially runs from 8:30am Monday, July 25th through 5:00 pm Friday, July 29th. For students arriving on Sunday, July 24th, there will be an optional social/networking activity in the afternoon. Below provides the anticipated schedule, though the exact ordering is potentially subject to change. While some of the topics may sound unfamiliar and potentially intimidating for those working primarily in Engineering Design areas, keep in mind that this Summer School is designed to be a first introduction, particularly for those without prior experience in these topics. The pace and scope will be adjusted accordingly.
 
 ## Sunday, July 24th -- Check-In
 
