@@ -11,7 +11,7 @@ The 2023 Summer School officially runs from 8:30am Monday, June 5th through 5:00
 While not an "official" day of the Summer School, we will have an optional afternoon social and networking activity should you arrive earlier on Sunday. Specifically, you can see the [Social Events](../social_events) page for more information about times and where to go.
 
 ## Monday, June 5th -- Program Induction via ML Models
-The specific topic of this day will be announced closer to the summer school date, but will have the general format of starting with an overview of a key mathematical field in the keynote, followed a practical tutorial session in the morning to apply one technique. After lunch, we will move toward applying that technique to Engineering Design problems, and finish with a Design Plenary covering challenges in design representation. This evening we will have the graduate poster session and ice cream Social hosted by Maryland Diary.
+The specific schedule of this day will be announced closer to the summer school date, but will have the general format of starting with an overview of a key mathematical field in the keynote, followed a practical tutorial session in the morning to apply one technique. After lunch, we will move toward applying that technique to Engineering Design problems, and finish with a Design Plenary covering challenges in design representation. This evening we will have the graduate poster session and ice cream Social hosted by Maryland Diary.
 
 | Time  | Event  |
 |---|---|
@@ -25,7 +25,7 @@ The specific topic of this day will be announced closer to the summer school dat
 | 5:00 | Evening Poster Session and Ice Cream Social |
 
 ## Tuesday, June 6th -- Program Generation via Formal Methods
-The specific topic of this day will be announced closer to the summer school date, but will have the general format of starting with an overview of a key mathematical field in the keynote, followed a practical tutorial session in the morning to apply one technique. After lunch, we will move toward applying that technique to Engineering Design problems, and finish with a Design Plenary covering challenges in design representation. The evening will have time for local social outings in the area.
+The specific schedule of this day will be announced closer to the summer school date, but will have the general format of starting with an overview of a key mathematical field in the keynote, followed a practical tutorial session in the morning to apply one technique. After lunch, we will move toward applying that technique to Engineering Design problems, and finish with a Design Plenary covering challenges in design representation. The evening will have time for local social outings in the area.
 
 | Time  | Event  |
 |---|---|
@@ -38,7 +38,7 @@ The specific topic of this day will be announced closer to the summer school dat
 | 5:00  | Local Social Outings |
 
 ## Wednesday, June 7th -- Program Analysis via Static Analysis Methods
-The specific topic of this day will be announced closer to the summer school date, but will have the general format of starting with an overview of a key mathematical field in the keynote, followed a practical tutorial session in the morning to apply one technique. After lunch, we will move toward applying that technique to Engineering Design problems, and finish with a Design Plenary covering challenges in design representation. The evening will have time for local social outings in the area.
+The specific schedule of this day will be announced closer to the summer school date, but will have the general format of starting with an overview of a key mathematical field in the keynote, followed a practical tutorial session in the morning to apply one technique. After lunch, we will move toward applying that technique to Engineering Design problems, and finish with a Design Plenary covering challenges in design representation. The evening will have time for local social outings in the area.
 
 | Time  | Event  |
 |---|---|
