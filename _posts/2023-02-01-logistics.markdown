@@ -37,3 +37,5 @@ This page covers various Logistics and Frequently Asked Questions for accepted S
 7. For Domestic Students: Please complete [a W-9 form](https://www.irs.gov/pub/irs-pdf/fw9.pdf) and upload it to your box link.
 8. For International Student: Please complete [a W-8 Ben form](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) and a wire transfer form (we'll email affected international students this directly) and upload them to your box link.
 9. Make sure to add your signature and date at the bottom of the form before uploading. You can reupload documents if you need to make an adjustment/correction or forgot something.
+
+* **By when do I need to complete the reimbursement procedure described above?** Please complete the above steps no later than two weeks after the end of the Summer School.
