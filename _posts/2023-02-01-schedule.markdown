@@ -16,7 +16,7 @@ The specific schedule of this day will be announced closer to the summer school 
 | Time  | Event  |
 |---|---|
 | 8:30 | Coffee/Breakfast |
-| 9:00 | Welcoming Remarks, Logistics, and Introduction to Week's Challenge Problems: : [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)  |
+| 9:00 | Welcoming Remarks, Logistics, and Introduction to Week's Challenge Problems: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)  |
 | 10:00 | Poster Session and Ice Cream Social|
 | 11:30 | Lunch |
 | 1:00  | Keynote Talk: [Dr. Evan Pu](https://evanthebouncy.github.io/) - [Video Recording Link]()|
@@ -33,7 +33,8 @@ The specific schedule of this day will be announced closer to the summer school 
 | 9:00  | Keynote Talk: [Dr. Susmit Jha](https://susmitjha.github.io/) - [Video Recording Link]() |
 | 10:00 | Tutorial Session: [Dr. Susmit Jha](https://susmitjha.github.io/) and  [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Video Recording Link]() |
 | 12:00 | Lunch |
-| 1:30  | Application Session:  [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Video Recording Link]() |
+| 1:30  | Design Plenary:  [Dr. Conrad Bock](https://www.nist.gov/people/conrad-bock) and [Dr. Raphael Barbau](https://www.nist.gov/people/raphael-barbau) - [Video Recording Link]() |
+| 2:30  | Application Session:  [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)|
 | 5:00  | Local Social Outings |
 
 ## Wednesday, June 7th -- Program Analysis via Static Analysis Methods
@@ -46,7 +47,7 @@ The specific schedule of this day will be announced closer to the summer school 
 | 10:00 | Tutorial Session: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Video Recording Link]() |
 | 12:00 | Lunch |
 | 1:30  | Design Plenary: [Dr. Alejandro Salado](https://sie.engineering.arizona.edu/faculty-staff/faculty/alejandro-salado) - [Video Recording Link]() |
-| 2:30  | Application Session: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Video Recording Link]() |
+| 2:30  | Application Session: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) |
 | 5:00  | Local Social Outings |
 
 ## Thursday, June 8th -- Working on Challenge Problems & Technical Office Hours
