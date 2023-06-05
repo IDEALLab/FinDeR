@@ -19,8 +19,8 @@ The specific schedule of this day will be announced closer to the summer school 
 | 9:00 | Welcoming Remarks, Logistics, and Introduction to Week's Challenge Problems: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)  |
 | 10:00 | Poster Session and Ice Cream Social|
 | 11:30 | Lunch |
-| 1:00  | Keynote Talk: [Dr. Evan Pu](https://evanthebouncy.github.io/) - [Video Recording Link]()|
-| 2:00 | Tutorial Session: [Dr. Evan Pu](https://evanthebouncy.github.io/) - [Video Recording Link]() |
+| 1:00  | Keynote Talk: [Dr. Evan Pu](https://evanthebouncy.github.io/) - [Slides](https://docs.google.com/presentation/d/1KVrlstzxFy4fOmy8HGPN3ydOWLdFAi46gMU-94ytyuk/edit?usp=sharing) - [Video Recording Link]()|
+| 2:00 | Tutorial Session: [Dr. Evan Pu](https://evanthebouncy.github.io/) - [Notebook Download Link](https://drive.google.com/drive/folders/1WsTQ5PHdkX0mb2_p-0mYe-y7qWLUdiKK?usp=sharing) - [Video Recording Link]() |
 | 4:00 | Design Plenary: [Dr. Matthew Campbell](https://design.engr.oregonstate.edu/campbell) - [Video Recording Link]() |
 | 5:00 | Local Social Outings |
 
