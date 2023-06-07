@@ -43,8 +43,8 @@ The specific schedule of this day will be announced closer to the summer school 
 | Time  | Event  |
 |---|---|
 | 8:30  | Coffee/Breakfast |
-| 9:00  | Keynote Talk: [Dr. Leonidas Lampropoulos](https://lemonidas.github.io/) |
-| 10:00 | Tutorial Session: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Video Recording Link]() |
+| 9:00  | Keynote Talk: [Dr. Leonidas Lampropoulos](https://lemonidas.github.io/) - [Slides](https://drive.google.com/file/d/1M1FqU5GvaxHpEmm7HH0NgGgeogHTMGNJ/view?usp=sharing) - [Video Recording Link]() |
+| 10:00 | Tutorial Session: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Notebook Download Link](https://drive.google.com/drive/folders/1E33G6nA54foMNYn1_jMNfGFN39Zx2CXI?usp=sharing) - [Video Recording Link]() |
 | 12:00 | Lunch |
 | 1:30  | Design Plenary: [Dr. Alejandro Salado](https://sie.engineering.arizona.edu/faculty-staff/faculty/alejandro-salado) - [Video Recording Link]() |
 | 2:30  | Application Session: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) |
