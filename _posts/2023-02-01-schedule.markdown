@@ -21,7 +21,7 @@ The specific schedule of this day will be announced closer to the summer school 
 | 11:30 | Lunch |
 | 1:00  | Keynote Talk: [Dr. Evan Pu](https://evanthebouncy.github.io/) - [Slides](https://docs.google.com/presentation/d/1KVrlstzxFy4fOmy8HGPN3ydOWLdFAi46gMU-94ytyuk/edit?usp=sharing) - [Video Recording Link](https://umd.zoom.us/rec/share/uebB5_80xjhl24lbx7Epk1FfRW7hryGLpMhUAZmmwT-ilTuWvN3tQVyfe_PKSFJF.jYH6iKFr30Vcr4ze?startTime=1685984478000)|
 | 2:00 | Tutorial Session: [Dr. Evan Pu](https://evanthebouncy.github.io/) - [Notebook Download Link](https://drive.google.com/drive/folders/1j8Mh5ZYqBLEyfm44htaDvEGxsYmHhbFZ?usp=sharing) - [Video Recording Link](https://umd.zoom.us/rec/share/uebB5_80xjhl24lbx7Epk1FfRW7hryGLpMhUAZmmwT-ilTuWvN3tQVyfe_PKSFJF.jYH6iKFr30Vcr4ze?startTime=1685989789000) |
-| 4:00 | Design Plenary: [Dr. Matthew Campbell](https://design.engr.oregonstate.edu/campbell) - [Video Recording Link]() |
+| 4:00 | Design Plenary: [Dr. Matthew Campbell](https://design.engr.oregonstate.edu/campbell) - [Video Recording Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f73a6d7c-4550-4d3a-999a-b01a0149d02f) |
 | 5:00 | Local Social Outings |
 
 ## Tuesday, June 6th -- Program Generation via Formal Methods
@@ -44,9 +44,9 @@ The specific schedule of this day will be announced closer to the summer school 
 |---|---|
 | 8:30  | Coffee/Breakfast |
 | 9:00  | Keynote Talk: [Dr. Leonidas Lampropoulos](https://lemonidas.github.io/) - [Slides](https://drive.google.com/file/d/1M1FqU5GvaxHpEmm7HH0NgGgeogHTMGNJ/view?usp=sharing) - [Video Recording Link](https://umd.zoom.us/rec/share/t0YoA_YKBbuBAg3TeCYB21zjxJq6NP469zZz37N7KjhH0BpoXWcTk08CUfXz594Q.lEirsHPqGv5fmGlt?startTime=1686143162000) |
-| 10:00 | Tutorial Session: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Notebook Download Link](https://drive.google.com/drive/folders/1E33G6nA54foMNYn1_jMNfGFN39Zx2CXI?usp=sharing) - [Video Recording Link]() |
+| 10:00 | Tutorial Session: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Notebook Download Link](https://drive.google.com/drive/folders/1E33G6nA54foMNYn1_jMNfGFN39Zx2CXI?usp=sharing) - [Video Recording Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80f3c44d-72f0-44b4-8efc-b01a01495435) |
 | 12:00 | Lunch |
-| 1:30  | Design Plenary: [Dr. Alejandro Salado](https://sie.engineering.arizona.edu/faculty-staff/faculty/alejandro-salado) - [Video Recording Link]() |
+| 1:30  | Design Plenary: [Dr. Alejandro Salado](https://sie.engineering.arizona.edu/faculty-staff/faculty/alejandro-salado) - [Video Recording Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37084ae7-eed3-4f26-959d-b01a0148ca3f) |
 | 2:30  | Application Session: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) |
 | 5:00  | Local Social Outings |
 
