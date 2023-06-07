@@ -37,7 +37,7 @@ The specific schedule of this day will be announced closer to the summer school 
 | 2:30  | Application Session:  [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)|
 | 5:00  | Local Social Outings |
 
-## Wednesday, June 7th -- Program Analysis via Static Analysis Methods
+## Wednesday, June 7th -- Program Analysis Methods
 The specific schedule of this day will be announced closer to the summer school date, but will have the general format of starting with an overview of a key mathematical field in the keynote, followed a practical tutorial session in the morning to apply one technique. After lunch, we will move toward applying that technique to Engineering Design problems, and finish with a Design Plenary covering challenges in design representation. The evening will have time for local social outings in the area.
 
 | Time  | Event  |
