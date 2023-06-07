@@ -31,9 +31,9 @@ The specific schedule of this day will be announced closer to the summer school 
 |---|---|
 | 8:30  | Coffee/Breakfast |
 | 9:00  | Keynote Talk: [Dr. Susmit Jha](https://susmitjha.github.io/) - [Slides](https://drive.google.com/file/d/1ISXrgUDNrT8mqzOwqY5j_aACmR3s1U-c/view?usp=sharing) - [Video Recording Link](https://umd.zoom.us/rec/share/iJHJ-eM9cSj6VAdAegrdBLOdI9PZvUSABpP6YuHVCbnUA6dkeq4ekqDiCR_-KT2S.kv87zAI45_HwHyFo?startTime=1686056810000) |
-| 10:00 | Tutorial Session: [Dr. Susmit Jha](https://susmitjha.github.io/) - [Notebook Download Link](https://drive.google.com/drive/folders/1MZnJMU0C3N1WMtST72KMGykHP7p58aNW?usp=sharing) - [Video Recording Link]() |
+| 10:00 | Tutorial Session: [Dr. Susmit Jha](https://susmitjha.github.io/) - [Notebook Download Link](https://drive.google.com/drive/folders/1MZnJMU0C3N1WMtST72KMGykHP7p58aNW?usp=sharing) |
 | 12:00 | Lunch |
-| 1:30  | Design Plenary:  [Dr. Conrad Bock](https://www.nist.gov/people/conrad-bock) and [Dr. Raphael Barbau](https://www.nist.gov/people/raphael-barbau) - [Slides](https://drive.google.com/file/d/1fHNAodvBti7_V0aHKjfF2ckdtOzHzU5B/view?usp=sharing) - [Video Recording Link]() |
+| 1:30  | Design Plenary:  [Dr. Conrad Bock](https://www.nist.gov/people/conrad-bock) and [Dr. Raphael Barbau](https://www.nist.gov/people/raphael-barbau) - [Slides](https://drive.google.com/file/d/1fHNAodvBti7_V0aHKjfF2ckdtOzHzU5B/view?usp=sharing) |
 | 2:30  | Application Session:  [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)|
 | 5:00  | Local Social Outings |
 
