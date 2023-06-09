@@ -9,3 +9,7 @@ Participants in the 2023 Summer School will have the choice of working on a vari
 ## Instructions for downloading the datasets and code libraries
 
 See [this link for instructions on the Challenge Problems](https://go.umd.edu/FinDeR-2023-Challenge-Problems)
+
+## Instructions for the final presentations
+
+For Friday's final presentations, each person or group should use [this Google Slides template](https://docs.google.com/presentation/d/1TznkUSlDQxyIK-zXENdyG_R0Z7ADGJtmRknJJOQywyQ/edit#slide=id.p1) which also provides instructions on what the presentation should cover. You can update your presentation order and a public link to your presentation that we can load on the main computer using the Google Sheet link that will be emailed to participants separately.
