@@ -1,6 +1,6 @@
 ---
 title:  "Evening Social Options"
-date:   2024-02-01 14:01:03
+date:   2024-01-01 14:01:03
 redirect_from: /social_events
 ---
 
