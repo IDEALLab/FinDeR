@@ -1,0 +1,29 @@
+---
+title:  "Overview"
+date:   2024-02-01 14:01:01
+redirect_from: /overview
+---
+
+The Frontiers in Design Representation (FinDeR) Summer School is a series of yearly summer programs for Graduate Students in Engineering focused on exploring emerging mathematical, statistical, or computing foundations for how we represent Engineering Design. Hosted by the Department of Mechanical Engineering at the University of Maryland, College Park, and funded by the National Science Foundation and UMD's Department of Mechanical Engineering, these Summer Schools are designed to introduce graduate students working in the Design research area to new and emerging mathematical, statistical, or computational techniques beyond what is typically covered in graduate-level coursework, and to help bridge conceptual and linguistic barriers and academic networks between different fields. This means that the target students are those enrolled in a technically-oriented graduate program. While this typically means an Engineering department, students from related technical areas outside of Engineering such as Architecture, Computer Science, Mathematics, Statistics, Physics, or other similar or interdisciplinary areas are more than welcome if their interests align with Engineering Design or Design more broadly.
+
+For the 2024 summer school, the topic is **Designs as Topologies – Differential Topology, Algebraic Topology, and Topological Data Analysis**. It will introduce Engineering Design graduate students to some of the advances from the fields of Mathematical and Computational Topology and its intersections with computing and Machine Learning that mathematicians and computer scientists use to understand or enumerate topological spaces or determine topological properties of datasets or representations. While typically applied to problems in computer graphics and physics, such techniques have broad ranging relevance to many types of Engineering Design problems, and students will have opportunities to apply these representations and techniques to provided engineering design challenge problems during the summer school.
+
+For any further questions or inquiries about the Summer School not mentioned elsewhere on this website, you can reach out to Dr. Mark Fuge at fuge@umd.edu.
+
+# Outcomes
+
+Students who attend the Summer School will:
+1. Learn new techniques from the broader area of Mathematical Topology, including both Differential, Algebraic, and Data-Driven concepts, for example, how to enumerate different topological spaces, enforce topological constraints on learned models (e.g., in autoencoders), and compute differentiable topological properties of a dataset to determine possible topological properties (e.g., Betti numbers and similar).
+2. Gain hands-on practice with these skills via relevant real-world Engineering Design challenge problems of various complexity that were provided, supported, or reviewed by industrial partners and federal agencies. They will leave the summer school with a concrete demonstration, and set of algorithms and datasets that they can compare to the State of the Art and build upon in their later research careers.
+3. Make new life-long friends and build networks with other researchers and mentors in a supportive and inclusive environment, while exploring the wider Washington, DC metro region.
+4. Practice their communication skills via an end-of-week final presentation, along with optional opportunities to present their graduate work in a poster session and contribute to later publishable outcomes from the summer school efforts.
+
+# To Apply
+
+See [the dedicated application page](../apply) which also provides information on possible travel stipends for students. We particularly encourage students from underrepresented groups to apply.
+
+**Presenting Current Research at a Networking Poster Session**
+Graduate Researchers with currently funded research projects will be able to present and disseminate some of their ongoing work at a [Poster Session](../poster_session) as part of the networking events at the summer school. This may advance the dissemination of your funded research and spur new conversations about how the Summer School topics might extend that work. Further information on the poster session and submission is available on the [Poster Session page](../poster_session).
+
+# Past Summer Schools and Testimonials
+This year's summer school mirrors the format of [prior years' FinDeR Summer Schools](../past_schools), although with new techniques. You can review student comments/testimonials, past pictures, and also get an approximate sense of what to expect in [the page with information on past FinDeR Summer Schools](../past_schools).

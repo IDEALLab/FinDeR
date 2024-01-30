@@ -21,6 +21,12 @@ Here are a list of past student comments or testimonials about the Summer School
 
 > "The FinDeR Summer School experience was a blast! I really enjoyed meeting and working with other graduate students, really from all over the world, in my field of design. The speakers were top notch and made concepts understandable."
 
+> "I think the Summer School was an amazing experience. In addition to everything I learned about research and design, I really valued the chance to watch how other students and researchers approach complex problems. FinDeR was an opportunity for me to think more abstractly about design problems and how we represent them in our work. It was also a meaningful networking experience where I made a lot of friends and met other researchers who are interested in some of the same design spaces as I am in."
+
+> "Attending the Frontiers in Design Summer School was an incredible experience. With a diverse group of around 30 students from different universities, different majors, and different experience levels, I had the opportunity to learn from the best researchers in the world, engage in challenging problem-solving exercises and build lasting connections. The program focused on applying AI and computer science algorithms, such as large language models and satisfiability modulo theory, to real-world engineering design problems. Collaborating with my peers, I witnessed the power of teamwork and the fusion of different perspectives in finding innovative solutions. The faculty and guest speakers were exceptional, providing insightful lectures and hands-on workshops that nurtured our growth as researchers. Especially, Dr. Fuge’s guidance and mentorship were invaluable throughout the program. Beyond the academic aspect, the summer school emphasized socialization and exploration. We had the chance to unwind and bond during social events and organized outings near the campus as well as in the DC area, creating a strong sense of community and lifelong friendships. Since I had very limited background in programming, the summer school provided a transformative experience. It expanded my understanding and invigorated passion for the use of AI and computer science algorithms in engineering design, equipping me with valuable skills for the future. I highly recommend this program to any student interested in exploring the intersection of AI, computer science, and engineering design."
+
+> "The FinDeR summer school is easily one of the best experiences I have ever participated in. If making long-lasting relationships with like-minded individuals, solving complex challenge problems, learning from world-renowned experts, and exploring the DC/Maryland area sounds like fun, that is because it is!! You do not want to miss your chance to attend this unique and exhilarating experience! 12/10 recommend!"
+
 # 2022 Summer School
 The [2022 Summer School](../../2022/schedule/) covered the topic of **Optimal Transport, Information Geometry, and Generative Models for Data-Driven Design**, and below you can find some selected photos from the event.
 
@@ -32,3 +38,13 @@ Game night at Board and Brew:
 
 FinDeR Reunion at IDETC 2022 in St. Louis:
 <img src="../../images/finder_2022_reunion.jpg" alt= "IDETC 2022 Reunion" width="500px">
+
+
+# 2023 Summer School
+The [2023 Summer School](../../2023/schedule/) covered the topic of **Designs as Programs – Induction, Analysis, and Generation**, and below you can find some selected photos from the event.
+
+A group photo with the 2023 FinDeR participants:
+<img src="../../images/finder_2023_group.jpg" alt= "Group Photo" width="500px">
+
+FinDeR Reunion at IDETC 2023 in St. Louis:
+<img src="../../images/finder_2023_reunion.jpg" alt= "IDETC 2022 Reunion" width="500px">
