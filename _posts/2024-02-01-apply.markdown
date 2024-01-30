@@ -1,7 +1,7 @@
 ---
 title:  "Apply"
 date:   2024-02-01 14:01:02
-redirect_from: /apply
+redirect_from: 2024/apply
 ---
 
 To apply for the 2024 UMD Frontiers in Design Representation Summer School, please complete <a href="https://umdsurvey.umd.edu/jfe/form/SV_55cEB33mHkHs114" target="_blank">this application form</a>.

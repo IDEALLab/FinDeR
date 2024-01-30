@@ -1,7 +1,7 @@
 ---
 title:  "Overview"
 date:   2023-02-01 14:01:01
-redirect_from: /overview
+redirect_from: 2023/overview
 ---
 
 The Frontiers in Design Representation (FinDeR) Summer School is a series of yearly summer programs for Graduate Students in Engineering focused on exploring emerging mathematical, statistical, or computing foundations for how we represent Engineering Design. Hosted by the Department of Mechanical Engineering at the University of Maryland, College Park, and funded by the National Science Foundation (via CMMI-1936730) and UMD's Department of Mechanical Engineering, these Summer Schools are designed to introduce graduate students working in the Design research area to new and emerging mathematical, statistical, or computational techniques beyond what is typically covered in graduate-level coursework, and to help bridge conceptual and linguistic barriers and academic networks between different fields. This means that the target students are those enrolled in a technically-oriented graduate program. While this typically means an Engineering department, students from related technical areas outside of Engineering such as Architecture, Computer Science, Mathematics, Statistics, Physics, or other similar or interdisciplinary areas are more than welcome if their interests align with Engineering Design or Design more broadly.

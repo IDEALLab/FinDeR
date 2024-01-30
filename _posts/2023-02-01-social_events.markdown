@@ -1,7 +1,7 @@
 ---
 title:  "Evening Social Options"
 date:   2023-02-01 14:01:03
-redirect_from: /social_events
+redirect_from: 2023/social_events
 ---
 
 This page lists some details on possible social options you may wish to explore in the evenings. While these are all optional and not part of the official summer school program, they are designed to help you explore the area and build connection with other attendees by giving you some ideas to start with.

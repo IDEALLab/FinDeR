@@ -1,7 +1,7 @@
 ---
 title:  "Logistics"
 date:   2023-02-01 14:01:05
-redirect_from: /logistics
+redirect_from: 2023/logistics
 ---
 
 This page covers various Logistics and Frequently Asked Questions for accepted Summer School attendees, and will be updated as questions are received and as further logistics become relevant.

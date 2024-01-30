@@ -1,7 +1,7 @@
 ---
 title:  "2023 Schedule"
 date:   2023-02-01 14:01:03
-redirect_from: /schedule
+redirect_from: 2023/schedule
 ---
 
 The 2023 Summer School officially runs from 8:30am Monday, June 5th through 5:00 pm Friday, June 9th. For students arriving on Sunday, June 4th, there will be an optional social/networking activity in the afternoon. Below provides the anticipated schedule, though the exact ordering is potentially subject to change as we get closer to the summer school dates. While some of the topics may sound unfamiliar and potentially intimidating for those working primarily in Engineering Design areas, keep in mind that this Summer School is designed to be a first introduction, particularly for those without prior experience in these topics. The pace and scope will be adjusted accordingly.

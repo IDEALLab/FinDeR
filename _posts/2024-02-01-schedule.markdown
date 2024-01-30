@@ -1,7 +1,7 @@
 ---
 title:  "2024 Schedule"
 date:   2024-02-01 14:01:03
-redirect_from: /schedule
+redirect_from: 2024/schedule
 ---
 
 The 2024 Summer School officially runs from 8:30am Monday, June 10th through 5:00 pm Friday, June 14th. For students arriving on Sunday, June 9th, there will be an optional social/networking activity in the afternoon. Below provides the anticipated schedule, though the exact ordering is potentially subject to change as we get closer to the summer school dates. While some of the topics may sound unfamiliar and potentially intimidating for those working primarily in Engineering Design areas, keep in mind that this Summer School is designed to be a first introduction, particularly for those without prior experience in these topics. The pace and scope will be adjusted accordingly.

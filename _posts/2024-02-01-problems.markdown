@@ -1,7 +1,7 @@
 ---
 title:  "Challenge Problems"
 date:   2024-02-01 14:01:04
-redirect_from: /problems
+redirect_from: 2024/problems
 ---
 
 Participants in the Summer School will have the choice of working on a variety of Engineering Design Challenge Problems that will include datasets and starter code for several relevant problems that can leverage the techniques presented at the summer school. The programming language used by the challenge problem library and many of the topical presentations and activities will be Python, though participants may use other languages as desired during the Summer School itself. Further details on how to access these resources will be made available to program participants after the application window closes, and may be updated here publicly during or after the Summer School.
