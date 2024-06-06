@@ -35,7 +35,7 @@ The specific schedule of this day will be announced closer to the summer school 
 | 10:00 | Tutorial Session: Enumeration of Topologies w/ [Chad Peterson](https://ise.illinois.edu/directory/profile/cp44) - [Video Link]() |
 | 12:00 | Lunch |
 | 1:30  | Application Work Session for Challenge Problems:  [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)|
-| 3:30  | Design Plenary: [To Be Announced]() - [Video Link]() |
+| 3:30  | Design Plenary: [Dr. James Allison](https://ise.illinois.edu/directory/profile/jtalliso) - [Video Link]() |
 | 5:00  | Local Social Outings |
 
 ## Wednesday, June 12th -- Topological Data Analysis and Topology in Machine Learning
