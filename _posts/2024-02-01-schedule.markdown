@@ -17,10 +17,10 @@ The specific schedule of this day will be announced closer to the summer school 
 |---|---|
 | 8:30  | Coffee/Breakfast |
 | 9:00  | Welcoming Remarks and Logistics: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)  |
-| 9:30  | Keynote Talk: [To Be Announced]() - [Video Link]() |
-| 10:30 | Tutorial Session: TBA w/ [To Be Announced]() - [Video Link]() |
+| 9:30  | Keynote Talk: [Dr. Boyu Zhang](https://www.math.umd.edu/~bzh/) - [Video Link]() |
+| 10:30 | Tutorial Session: Techniques for studying Topological spaces w/ [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Video Link]() |
 | 12:30 | Lunch |
-| 2:00  | Design Plenary: [To Be Announced]() - [Video Link]() |
+| 2:00  | Design Plenary: [Dr. Jan Vandenbrande](https://www.sri.com/people/jan-vandenbrande/) - [Video Link]() |
 | 3:00 | Introduction to Challenge Problems and Technical Setup: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) |
 | 3:30 | Evening Poster Session and Ice Cream Social|
 | 5:30 | Local Social Outings |
@@ -31,8 +31,8 @@ The specific schedule of this day will be announced closer to the summer school 
 | Time  | Event  |
 |---|---|
 | 8:30  | Coffee/Breakfast |
-| 9:00  | Keynote Talk: [To Be Announced]() - [Video Link]() |
-| 10:00 | Tutorial Session: TBA w/ [To Be Announced]() - [Video Link]() |
+| 9:00  | Keynote Talk: [Chad Peterson](https://ise.illinois.edu/directory/profile/cp44) - [Video Link]() |
+| 10:00 | Tutorial Session: Enumeration of Topologies w/ [Chad Peterson](https://ise.illinois.edu/directory/profile/cp44) - [Video Link]() |
 | 12:00 | Lunch |
 | 1:30  | Application Work Session for Challenge Problems:  [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)|
 | 3:30  | Design Plenary: [To Be Announced]() - [Video Link]() |
@@ -44,11 +44,11 @@ The specific schedule of this day will be announced closer to the summer school 
 | Time  | Event  |
 |---|---|
 | 8:30  | Coffee/Breakfast |
-| 9:00  | Keynote Talk: [To Be Announced]() - [Video Link]() |
-| 10:00 | Tutorial Session: TBA w/ [To Be Announced]() - [Video Link]() |
+| 9:00  | Keynote Talk: [Dr. Tegan Emerson](https://www.pnnl.gov/people/tegan-emerson) - [Video Link]() |
+| 10:00 | Tutorial Session: Computing Topological Properties from Data w/ [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Video Link]() |
 | 12:00 | Lunch |
-| 1:30  | Application Work Session for Challenge Problems:  [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)|
-| 3:30  | Design Plenary: [To Be Announced]() - [Video Link]() |
+| 1:30  | Design Plenary: [John Johnston](https://etd.gsfc.nasa.gov/key-personnel/) - [Video Link]() |
+| 2:30  | Application Work Session for Challenge Problems:  [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)|
 | 5:00  | Local Social Outings |
 
 ## Thursday, June 13th -- Working on Challenge Problems & Technical Office Hours
