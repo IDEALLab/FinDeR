@@ -17,7 +17,7 @@ The specific schedule of this day will be announced closer to the summer school 
 |---|---|
 | 8:30  | Coffee/Breakfast |
 | 9:00  | Welcoming Remarks and Logistics: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)  |
-| 9:30  | Keynote Talk: [Dr. Boyu Zhang](https://www.math.umd.edu/~bzh/) - [Slides]() - [Video Link]() |
+| 9:30  | Keynote Talk: [Dr. Boyu Zhang](https://www.math.umd.edu/~bzh/) - [Slides](https://drive.google.com/file/d/12tOzVhDpiYp8S_Cnd6Sa0CZuiQCrhdxj/view?usp=sharing) - [Video Link]() |
 | 10:30 | Tutorial Session: Techniques for studying Topological spaces w/ [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Tutorial Files](https://drive.google.com/drive/folders/1V7Ie_Bxfsb8F0oNhzr0rcdjfDvYKOX8z?usp=sharing) - [Video Link]() |
 | 12:30 | Lunch |
 | 2:00  | Design Plenary: [Dr. Jan Vandenbrande](https://www.sri.com/people/jan-vandenbrande/) - [Video Link]() |
