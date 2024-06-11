@@ -8,7 +8,7 @@ Participants in the Summer School will have the choice of working on a variety o
 
 ## Instructions for downloading the datasets and code libraries
 
-These will be announced closer to the time.
+The descriptions for the challenge problems can be downloaded [here](https://go.umd.edu/FinDeR-2024-Challenge-Problems).
 
 ## Instructions for the final presentations
 
