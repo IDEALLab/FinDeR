@@ -45,7 +45,7 @@ The specific schedule of this day will be announced closer to the summer school 
 |---|---|
 | 8:30  | Coffee/Breakfast |
 | 9:00  | Keynote Talk: [Dr. Tegan Emerson](https://www.pnnl.gov/people/tegan-emerson) - [Video Link]() |
-| 10:00 | Tutorial Session: Computing Topological Properties from Data w/ [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Video Link]() |
+| 10:00 | Tutorial Session: Computing Topological Properties from Data w/ [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Tutorial Files](https://drive.google.com/drive/folders/138spzsTL9EBxNC-B8Qsx7XnHKwW9Z7_o?usp=drive_link) - [Video Link]() |
 | 12:00 | Lunch |
 | 1:30  | Design Plenary: [John Johnston](https://etd.gsfc.nasa.gov/key-personnel/) - [Video Link]() |
 | 2:30  | Application Work Session for Challenge Problems:  [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)|
