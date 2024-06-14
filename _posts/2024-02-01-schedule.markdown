@@ -17,10 +17,10 @@ The specific schedule of this day will be announced closer to the summer school 
 |---|---|
 | 8:30  | Coffee/Breakfast |
 | 9:00  | Welcoming Remarks and Logistics: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)  |
-| 9:30  | Keynote Talk: [Dr. Boyu Zhang](https://www.math.umd.edu/~bzh/) - [Slides](https://drive.google.com/file/d/12tOzVhDpiYp8S_Cnd6Sa0CZuiQCrhdxj/view?usp=sharing) - [Video Link]() |
-| 10:30 | Tutorial Session: Embedding Topological Spaces w/ [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Tutorial Files](https://drive.google.com/drive/folders/1V7Ie_Bxfsb8F0oNhzr0rcdjfDvYKOX8z?usp=sharing) - [Video Link]() |
+| 9:30  | Keynote Talk: [Dr. Boyu Zhang](https://www.math.umd.edu/~bzh/) - [Slides](https://drive.google.com/file/d/12tOzVhDpiYp8S_Cnd6Sa0CZuiQCrhdxj/view?usp=sharing) |
+| 10:30 | Tutorial Session: Embedding Topological Spaces w/ [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Tutorial Files](https://drive.google.com/drive/folders/1V7Ie_Bxfsb8F0oNhzr0rcdjfDvYKOX8z?usp=sharing) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=99054104-7bea-4d43-b452-b18b00f84303) |
 | 12:30 | Lunch |
-| 2:00  | Design Plenary: [Dr. Jan Vandenbrande](https://www.sri.com/people/jan-vandenbrande/) - [Video Link]() |
+| 2:00  | Design Plenary: [Dr. Jan Vandenbrande](https://www.sri.com/people/jan-vandenbrande/)  |
 | 3:00 | Introduction to Challenge Problems and Technical Setup: [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) |
 | 3:30 | Evening Poster Session and Ice Cream Social|
 | 5:30 | Local Social Outings |
@@ -31,11 +31,11 @@ The specific schedule of this day will be announced closer to the summer school 
 | Time  | Event  |
 |---|---|
 | 8:30  | Coffee/Breakfast |
-| 9:00  | Keynote Talk: [Chad Peterson](https://ise.illinois.edu/directory/profile/cp44) - [Video Link]() |
+| 9:00  | Keynote Talk: [Chad Peterson](https://ise.illinois.edu/directory/profile/cp44) - [Slides](https://drive.google.com/file/d/12xu9HH6PDlkfnCKLmCqcbfhKKy00pysl/view?usp=sharing) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=263385c6-8f47-47f9-9386-b18e00e95525) |
 | 10:00 | Tutorial Session: Enumeration of Topologies w/ [Chad Peterson](https://ise.illinois.edu/directory/profile/cp44) -  [Tutorial Files](https://colab.research.google.com/drive/1A6PuJJU3B8NlTeO_WyBRePYEC6ZJOT4x?usp=sharing) - [Video Link]() |
 | 12:00 | Lunch |
 | 1:30  | Application Work Session for Challenge Problems:  [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)|
-| 3:30  | Design Plenary: [Dr. James Allison](https://ise.illinois.edu/directory/profile/jtalliso) - [Video Link]() |
+| 3:30  | Design Plenary: [Dr. James Allison](https://ise.illinois.edu/directory/profile/jtalliso) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=983b5f35-775a-4157-8cda-b18f00e5d880) |
 | 5:00  | Local Social Outings |
 
 ## Wednesday, June 12th -- Topological Data Analysis and Topology in Machine Learning
@@ -44,10 +44,10 @@ The specific schedule of this day will be announced closer to the summer school 
 | Time  | Event  |
 |---|---|
 | 8:30  | Coffee/Breakfast |
-| 9:00  | Keynote Talk: [Dr. Tegan Emerson](https://www.pnnl.gov/people/tegan-emerson) - [Video Link]() |
-| 10:00 | Tutorial Session: Computing Topological Properties from Data w/ [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Tutorial Files](https://drive.google.com/drive/folders/138spzsTL9EBxNC-B8Qsx7XnHKwW9Z7_o?usp=sharing) - [Video Link]() |
+| 9:00  | Keynote Talk: [Dr. Tegan Emerson](https://www.pnnl.gov/people/tegan-emerson) |
+| 10:00 | Tutorial Session: Computing Topological Properties from Data w/ [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge) - [Tutorial Files](https://drive.google.com/drive/folders/138spzsTL9EBxNC-B8Qsx7XnHKwW9Z7_o?usp=sharing) |
 | 12:00 | Lunch |
-| 1:30  | Design Plenary: [John Johnston](https://etd.gsfc.nasa.gov/key-personnel/) - [Video Link]() |
+| 1:30  | Design Plenary: [John Johnston](https://etd.gsfc.nasa.gov/key-personnel/) - [Video Link](https://umd.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=249435a9-475c-4598-af6a-b18f00e5e1f5) |
 | 2:30  | Application Work Session for Challenge Problems:  [Dr. Mark Fuge](https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge)|
 | 5:00  | Local Social Outings |
 
@@ -62,7 +62,7 @@ This day will be focused primarily on individual and group time to continue work
 | 5:00 | Individual or smaller group social outings as desired |
 
 ## Friday, June 14th -- Synthesis and Dissemination
-This day will be focused on contributing to collaborative presentation and writing projects within the group that summarize our progress on the challenge problem results and preparing brief presentations to the group and invited external guests on promising approaches and lessons learned along with a closing networking event.
+This day will be focused on contributing to collaborative presentations and writing projects within the group that summarize our progress on the challenge problem results and preparing brief presentations to the group and invited external guests on promising approaches and lessons learned along with a closing networking event.
 
 | Time  | Event  |
 |---|---|
